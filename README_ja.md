@@ -1,7 +1,7 @@
 # Local Serena DXT
 
 ![Claude Badge](https://img.shields.io/badge/Claude_Extension-D97757?logo=claude&logoColor=fff&style=flat)
-[![License][License-Badge]][License]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## 概要
 
