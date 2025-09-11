@@ -1,0 +1,14 @@
+{
+  "name": "serena-mcp-extension",
+  "version": "1.0.0",
+  "description": "Simple Claude Desktop Extension for Serena-MCP connection",
+  "scripts": {
+      "package": "npx @anthropic-ai/dxt pack ./src local-serena.dxt"
+  },
+  "devDependencies": {
+      "@anthropic-ai/dxt": "^0.1.0"
+  },
+  "author": "hidao80",
+  "license": "MIT",
+  "keywords": ["claude", "mcp", "serena", "extension", "dxt"]
+}
