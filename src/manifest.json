@@ -16,6 +16,11 @@
   "author": {
     "name": "hidao80"
   },
+  "homepage": "https://github.com/hidao80/local-serena-dxt",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/hidao80/local-serena-dxt.git"
+  },
   "license": "MIT",
   "server": {
     "type": "python",
