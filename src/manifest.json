@@ -11,15 +11,15 @@
     "dxt"
   ],
   "name": "Local Serena MCP",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Claude Desktop Extension providing connection to Serena-MCP.",
   "author": {
     "name": "hidao80"
   },
   "homepage": "https://github.com/hidao80/local-serena-dxt",
   "repository": {
-      "type": "git",
-      "url": "https://github.com/hidao80/local-serena-dxt.git"
+    "type": "git",
+    "url": "https://github.com/hidao80/local-serena-dxt.git"
   },
   "license": "MIT",
   "server": {
@@ -29,7 +29,7 @@
       "command": "uvx",
       "args": [
         "--from",
-        "git+https://github.com/oraios/serena",
+        "https://github.com/oraios/serena/archive/refs/heads/main.zip",
         "serena",
         "start-mcp-server",
         "--port",
